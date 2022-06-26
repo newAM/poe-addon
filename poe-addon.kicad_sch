@@ -2738,7 +2738,7 @@
       (reference "C6") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00005bf9f5ee/00000000-0000-0000-0000-000059e7bb76"
-      (reference "C7") (unit 1) (value "22u") (footprint "Capacitor_SMD:CP_Elec_8x10.5")
+      (reference "C7") (unit 1) (value "27u") (footprint "Capacitor_SMD:CP_Elec_8x10.5")
     )
     (path "/00000000-0000-0000-0000-00005bf9f5ee/00000000-0000-0000-0000-000059eb18f9"
       (reference "C8") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")

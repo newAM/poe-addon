@@ -641,7 +641,7 @@
     (at 77.47 119.38 180)
     (descr "SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf")
     (tags "capacitor electrolytic")
-    (property "DigiKey Part Number" "399-A768KE226M1JLAE054TR-ND")
+    (property "DigiKey Part Number" "399-A768KE276M1JLAE054CT-ND")
     (property "Sheetfile" "poe_pd_iface.kicad_sch")
     (property "Sheetname" "PoE PD Interface")
     (path "/00000000-0000-0000-0000-00005bf9f5ee/00000000-0000-0000-0000-000059e7bb76")
