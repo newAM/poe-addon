@@ -27,6 +27,8 @@
         ${bom-pkg}/bin/generate_interactive_bom $src \
           --no-browser \
           --dark-mode \
+          --show-fields 'Value,DigiKey Part Number' \
+          --group-fields 'DigiKey Part Number' \
           --dest-dir $out \
           --name-format index
       '';
