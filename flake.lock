@@ -1,0 +1,48 @@
+{
+  "nodes": {
+    "interactive-html-bom": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1656271769,
+        "narHash": "sha256-+kCuqSFaUYwln4v5aN0KvkuEfyaDbyJbwkB40bjcLDA=",
+        "owner": "newam",
+        "repo": "interactive-html-bom-nix",
+        "rev": "2cd1f9293c5e4b5d68ece4bf44b84f8033d7ea41",
+        "type": "github"
+      },
+      "original": {
+        "owner": "newam",
+        "repo": "interactive-html-bom-nix",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1656239181,
+        "narHash": "sha256-wW1xRFBn376yGloXZ4QzBE4hjipMawpV18Lshd9QSPw=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "f2537a505d45c31fe5d9c27ea9829b6f4c4e6ac5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "interactive-html-bom": "interactive-html-bom",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
