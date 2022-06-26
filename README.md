@@ -5,7 +5,7 @@ Simple board to add power over Ethernet to a project.
 This uses the [Wiznet W5500] for TCP/IP offload, and a [Microchip 25AA02E48] for
 a valid EUI-48 MAC address.
 
-Proceed with caution, I have not actually made this yet due to part shortages.
+Proceed with caution, I have not made this yet due to part shortages.
 
 ## Media
 

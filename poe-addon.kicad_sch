@@ -2502,7 +2502,7 @@
     (property "Value" "Conn_01x05_Male" (id 1) (at 161.925 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical" (id 2) (at 161.29 78.74 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 161.29 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 161.29 78.74 0)
@@ -2554,7 +2554,7 @@
     (property "Value" "Conn_01x05_Male" (id 1) (at 196.215 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical" (id 2) (at 195.58 78.74 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 195.58 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 195.58 78.74 0)
@@ -2810,7 +2810,7 @@
       (reference "U2") (unit 1) (value "NCP1090") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005bf9f5ee/00000000-0000-0000-0000-000059e7c1ef"
-      (reference "U3") (unit 1) (value "PG02S4803A") (footprint "AlexComponents:PG02S")
+      (reference "U3") (unit 1) (value "PG02S4803A") (footprint "newam:PG02S")
     )
     (path "/00000000-0000-0000-0000-00005bfa08a0/00000000-0000-0000-0000-00005c1faae5"
       (reference "U4") (unit 1) (value "W5500") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
@@ -2819,10 +2819,10 @@
       (reference "X1") (unit 1) (value "0813-1X1T-57-F") (footprint "newam:0813-1X1T-57-F_RJ45-Jack")
     )
     (path "/a301cd7a-869e-41c4-af8d-0d9e595bd70e"
-      (reference "X2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
+      (reference "X2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/650d4e5d-41b8-44d6-9b3a-2b4481fa83e2"
-      (reference "X3") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
+      (reference "X3") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005bfa08a0/00000000-0000-0000-0000-00005b95f795"
       (reference "Y1") (unit 1) (value "25MHz") (footprint "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm")
