@@ -1504,7 +1504,7 @@
     (at 87.376 113.284)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
-    (property "DigiKey Part Number" "NCP1090DGOS-ND")
+    (property "DigiKey Part Number" "NCP1090DRGOSCT-ND")
     (property "Sheetfile" "poe_pd_iface.kicad_sch")
     (property "Sheetname" "PoE PD Interface")
     (path "/00000000-0000-0000-0000-00005bf9f5ee/00000000-0000-0000-0000-000059e6f539")
