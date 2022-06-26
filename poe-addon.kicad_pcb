@@ -588,7 +588,7 @@
     (at 97.536 110.236 90)
     (descr "SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package")
     (tags "SMD SMT crystal")
-    (property "DigiKey Part Number" "CTX1437CT-ND")
+    (property "DigiKey Part Number" "CTX1175CT-ND")
     (property "Sheetfile" "w5500_eth_iface.kicad_sch")
     (property "Sheetname" "W5500 Ethernet Interface")
     (path "/00000000-0000-0000-0000-00005bfa08a0/00000000-0000-0000-0000-00005b95f795")

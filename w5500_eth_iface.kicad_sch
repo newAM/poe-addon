@@ -1107,7 +1107,7 @@
     (property "Datasheet" "~" (id 3) (at 149.86 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey Part Number" "CTX1437CT-ND" (id 4) (at 149.86 104.14 90)
+    (property "DigiKey Part Number" "CTX1175CT-ND" (id 4) (at 149.86 104.14 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 29a80a1e-eca2-4168-b8e7-2fd228c4f72e))
