@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1656278320,
-        "narHash": "sha256-YI4+UebadNNZlr7AxEES3uwH7lbVaYggFtBpH0IPEZo=",
+        "lastModified": 1656285197,
+        "narHash": "sha256-UEvZdevdiH/hcklGYOWZ8AReuWE7yE/Ojd9lowwj1SQ=",
         "owner": "newam",
         "repo": "interactive-html-bom-nix",
-        "rev": "678124432b493242ef89e59eae929e9bb65f5972",
+        "rev": "456e86bd2550811073850cde7699b7779c54eb7f",
         "type": "github"
       },
       "original": {

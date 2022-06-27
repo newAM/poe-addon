@@ -25,6 +25,7 @@
         export HOME=$(mktemp -d)
 
         ${bom-pkg}/bin/generate_interactive_bom $src \
+          --extra-data-file $src \
           --no-browser \
           --dark-mode \
           --show-fields 'Value,DigiKey Part Number' \
