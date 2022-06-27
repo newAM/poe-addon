@@ -1,6 +1,7 @@
-poe-addon-backups
+*-cache
+/result
 \#auto_saved_files\#
-poe-addon.xml
+poe-addon-backups
 poe-addon.csv
 poe-addon.net
-/result
+poe-addon.xml
