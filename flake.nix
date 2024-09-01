@@ -7,12 +7,14 @@
     };
   };
 
-  outputs = { self, nixpkgs, interactive-html-bom }:
-  let
+  outputs = {
+    self,
+    nixpkgs,
+    interactive-html-bom,
+  }: let
     pkgs = nixpkgs.legacyPackages.x86_64-linux;
     bom-pkg = interactive-html-bom.packages.x86_64-linux.default;
-  in
-  {
+  in {
     packages.x86_64-linux.bom = pkgs.stdenv.mkDerivation {
       name = "bom";
 
@@ -36,5 +38,7 @@
 
       dontInstall = true;
     };
+
+    checks.x86_64-linux.bom = self.packages.x86_64-linux.bom;
   };
 }
